@@ -1,6 +1,7 @@
 Project: Music_player
   Web: Music_player
-  Thêm được hình ảnh 
+  Thêm được hình ảnh, nhạc, nghệ sĩ ưa thích. Thiết kế giao diện đơn giản
+  Vẫn trong quá trình hoàn thiện
 
 
 
